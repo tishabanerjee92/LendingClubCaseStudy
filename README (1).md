@@ -36,5 +36,5 @@ The dataset contains information about past loan applicants and their loan statu
 - Include debt-to-income ratio as a factor for approving the loan and deciding the interest rates
 
 ## Files
-- `Shashank_Gupta.ipynb`: IPython Notebook containing the analysis.
-- `Loan_Default_Analysis_Presentation.pdf`: Presentation summarizing the analysis.
+- 'Lending Club Case Study.ipynb`: IPython Notebook containing the analysis.
+- `Lending Club Case Study.pdf`: Presentation summarizing the analysis.
